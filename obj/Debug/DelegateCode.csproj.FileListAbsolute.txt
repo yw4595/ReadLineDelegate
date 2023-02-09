@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\bin\Debug\DelegateCode.exe.config
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\bin\Debug\DelegateCode.exe
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\bin\Debug\DelegateCode.pdb
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\obj\Debug\DelegateCode.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\obj\Debug\DelegateCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\obj\Debug\DelegateCode.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\obj\Debug\DelegateCode.exe
+C:\Users\Wiz\Desktop\IGME 201\DelegateCode\obj\Debug\DelegateCode.pdb
